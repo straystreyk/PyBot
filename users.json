@@ -1,1 +1,19 @@
-{"users": [{"name": "\u041a\u0430\u0440\u0438\u043d\u044d", "username": null, "chat_id": 1948219557}, {"name": "\u041b\u0438\u0437\u0430", "username": "LisavetaKrotova", "chat_id": 468769167}, {"name": "T", "username": "MasterSaya", "chat_id": 321193978}]}
+{
+   "users": [
+      {
+         "name": "Каринэ",
+         "username": null,
+         "chat_id": 1948219557
+      },
+      {
+         "name": "Лиза",
+         "username": "LisavetaKrotova",
+         "chat_id": 468769167
+      },
+      {
+         "name": "T",
+         "username": "MasterSaya",
+         "chat_id": 321193978
+      }
+   ]
+}
